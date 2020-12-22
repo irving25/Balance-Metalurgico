@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_capacity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9795091-3278-4311-8fe6-668c6c04cb8f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>387eede1-dd47-4414-817d-1e43a6530db7</id>
+      <masked>false</masked>
+      <name>razonS</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf9403a0-4564-4bd5-87f8-7a0c207d8e35</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bff2eb72-59ee-4339-a5d2-917471f0c129</id>
+      <masked>false</masked>
+      <name>nombreC</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>94b89f16-aa34-4b09-8610-733bdc20f0d5</id>
+      <masked>false</masked>
+      <name>sap</name>
+   </variable>
+</TestCaseEntity>

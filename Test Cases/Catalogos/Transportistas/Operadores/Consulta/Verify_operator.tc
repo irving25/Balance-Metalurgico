@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_operator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec98ab22-46b4-4699-8d64-db459aeeec64</testCaseGuid>
+   <variable>
+      <defaultValue>'Tuemsa'</defaultValue>
+      <description></description>
+      <id>4bfa74c5-d3d9-4e06-8d81-141ba3d5a189</id>
+      <masked>false</masked>
+      <name>transportador</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>1ee91ab1-16d6-480e-bca9-b7de1521eb8a</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>be43b9c4-2626-41f4-bb33-e025ed3c200b</id>
+      <masked>false</masked>
+      <name>licencia</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>770ad30c-8e6e-4350-8656-07b4d8b0d8b2</id>
+      <masked>false</masked>
+      <name>imss</name>
+   </variable>
+</TestCaseEntity>

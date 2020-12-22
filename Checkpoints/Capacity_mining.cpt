@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Capacity_mining</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\Users\iperez\Documents\Datos de prueba\Unidades mineras.xls</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Capacidades</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2020-10-23T10:11:39.239</taken-date>
+   <column-names>
+      <column-name>nombre</column-name>
+      <column-name>descripcion</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "LIMS",
+      "checked": true
+    },
+    {
+      "value": "Lims system",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Tostacion",
+      "checked": true
+    },
+    {
+      "value": "Esta unidad minera realiza tostación por lo cual requiere campos extra en el formulario",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Subterraneas",
+      "checked": true
+    },
+    {
+      "value": "Proceso de cianuracion con toneladas subterraneas",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Molinos",
+      "checked": true
+    },
+    {
+      "value": "Captura de molinos en el proceso de cianuracion",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "AgAu",
+      "checked": true
+    },
+    {
+      "value": "Proceso de AgAu",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Cianuracion",
+      "checked": true
+    },
+    {
+      "value": "Realiza proceso de cianuracion",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b9e7051-e311-4a17-95bc-2644f800cdd8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f1d973a-8a31-44ea-a483-0b40eae015e3</id>
+      <masked>false</masked>
+      <name>razonS</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>842f96bc-ed00-4673-9d0a-5865a29de5e1</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f3fd87d1-d050-4308-8974-84a7f22fe72e</id>
+      <masked>false</masked>
+      <name>nombreC</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8e2cbe18-e3d3-43de-bf2c-a6ec1359070e</id>
+      <masked>false</masked>
+      <name>sap</name>
+   </variable>
+</TestCaseEntity>

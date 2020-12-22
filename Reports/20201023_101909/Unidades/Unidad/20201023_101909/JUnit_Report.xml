@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Unidad" time="149.691" tests="2" failures="1" errors="0">
+   <testsuite name="Unidad" tests="2" failures="1" errors="0" time="149.691" timestamp="2020-10-23 10:19:15" hostname="iperez - EC2AMAZ-DJL71OR.firstmajestic.local" id="Test Suites/Unidades/Unidad">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Reports\\20201023_101909\\Unidades\\Unidad\\20201023_101909"/>
+         <property name="logFiles" value="D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Reports\\20201023_101909\\Unidades\\Unidad\\20201023_101909\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="iperez - EC2AMAZ-DJL71OR.firstmajestic.local"/>
+         <property name="os" value="Windows Server 2016 64bit"/>
+         <property name="katalonVersion" value="7.0.4.1"/>
+         <property name="browser" value="Chrome 86.0.4240.111"/>
+         <property name="hostAddress" value="10.41.50.193"/>
+         <property name="sessionId" value="02d4023a3e18884999b1511918e5df72"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows Server 2016"/>
+      </properties>
+      <testcase name="Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit" time="75.219" classname="Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot find checkpoint with ID 'Checkpoints/Mining_unit'. Root cause: 'java.lang.NullPointerException'
+	at com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint(CheckpointFactory.java:196)
+	at com.kms.katalon.core.checkpoint.CheckpointFactory$findCheckpoint.callStatic(Unknown Source)
+	at Verify_unit.run(Verify_unit:29)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1603466349873.run(TempTestSuite1603466349873.groovy:36)
+"/>
+         <system-out><![CDATA[2020-10-23 10:19:16 - [TEST_CASE][FAILED] - Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit: Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot find checkpoint with ID 'Checkpoints/Mining_unit'. Root cause: 'java.lang.NullPointerException'
+	at com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint(CheckpointFactory.java:196)
+	at com.kms.katalon.core.checkpoint.CheckpointFactory$findCheckpoint.callStatic(Unknown Source)
+	at Verify_unit.run(Verify_unit:29)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1603466349873.run(TempTestSuite1603466349873.groovy:36)
+
+
+2020-10-23 10:19:17 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/La Parrilla"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/La Parrilla' successfully
+
+2020-10-23 10:19:17 - [TEST_CASE][PASSED] - Test Cases/Login/La Parrilla: Test Cases/Login/La Parrilla
+
+2020-10-23 10:19:17 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://mb-testing.firstmajestic.com'
+
+2020-10-23 10:19:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-10-23 10:19:18 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-10-23 10:19:32 - [MESSAGE][PASSED] - Browser is opened with url: 'https://mb-testing.firstmajestic.com'
+
+2020-10-23 10:19:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-10-23 10:19:33 - [MESSAGE][PASSED] - Current window maximized
+
+2020-10-23 10:19:33 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097")): Object: 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' is clicked on
+
+2020-10-23 10:19:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' is clicked on
+
+2020-10-23 10:19:34 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097"), "La Parrilla", false): All options with label 'La Parrilla' are selected in object 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' 
+
+2020-10-23 10:19:36 - [MESSAGE][PASSED] - All options with label 'La Parrilla' are selected in object 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' 
+
+2020-10-23 10:19:36 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/button_Iniciar Sesin")): Object: 'Object Repository/Login/La parrilla login/button_Iniciar Sesin' is clicked on
+
+2020-10-23 10:19:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/button_Iniciar Sesin' is clicked on
+
+2020-10-23 10:19:36 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6")): Object: 'Object Repository/Login/La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6' is clicked on
+
+2020-10-23 10:20:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6' is clicked on
+
+2020-10-23 10:20:02 - [TEST_STEP][PASSED] - setText(findTestObject("Login/La parrilla login/input_Sign in_loginfmt"), "iperez@firstmajestic.com"): Text 'iperez@firstmajestic.com' is set on object 'Object Repository/Login/La parrilla login/input_Sign in_loginfmt'
+
+2020-10-23 10:20:17 - [MESSAGE][PASSED] - Text 'iperez@firstmajestic.com' is set on object 'Object Repository/Login/La parrilla login/input_Sign in_loginfmt'
+
+2020-10-23 10:20:17 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in_idSIButton9")): Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:20:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:20:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/La parrilla login/input_Enter password_passwd"), "ykGCkDCd7AS2UCfUpOmvYw=="): Text ****** has been set on object 'Object Repository/Login/La parrilla login/input_Enter password_passwd'
+
+2020-10-23 10:20:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/La parrilla login/input_Enter password_passwd'
+
+2020-10-23 10:20:19 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in_idSIButton9")): Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:20:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:20:21 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in_idSIButton9")): Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:20:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:20:25 - [TEST_STEP][NOT_RUN] - delay(7): NOT_RUN: delay(7)
+
+2020-10-23 10:20:25 - [MESSAGE][NOT_RUN] - NOT_RUN: delay(7)
+
+2020-10-23 10:20:25 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Irving", false): NOT_RUN: verifyTextPresent("Irving", false)
+
+2020-10-23 10:20:25 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Irving", false)
+
+2020-10-23 10:20:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/La Parrilla' successfully
+
+2020-10-23 10:20:25 - [TEST_STEP][PASSED] - delay(2, CONTINUE_ON_FAILURE): Delayed 2 second(s)
+
+2020-10-23 10:20:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-10-23 10:20:27 - [TEST_STEP][PASSED] - click(findTestObject("Catalogos/button_Catlogos"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Catalogos/button_Catlogos' is clicked on
+
+2020-10-23 10:20:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Catalogos/button_Catlogos' is clicked on
+
+2020-10-23 10:20:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Catalogos/Unidades/button_Unidades Mineras"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Catalogos/Unidades/button_Unidades Mineras' is clicked on
+
+2020-10-23 10:20:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Catalogos/Unidades/button_Unidades Mineras' is clicked on
+
+2020-10-23 10:20:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Catalogos/Unidades/button_Unidad Minera"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Catalogos/Unidades/button_Unidad Minera' is clicked on
+
+2020-10-23 10:20:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Catalogos/Unidades/button_Unidad Minera' is clicked on
+
+2020-10-23 10:20:30 - [TEST_STEP][PASSED] - verifyCheckpoint(findCheckpoint("Checkpoints/Mining_unit"), true): null]]></system-out>
+         <system-err><![CDATA[2020-10-23 10:19:16 - [TEST_CASE][FAILED] - Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit: Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot find checkpoint with ID 'Checkpoints/Mining_unit'. Root cause: 'java.lang.NullPointerException'
+	at com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint(CheckpointFactory.java:196)
+	at com.kms.katalon.core.checkpoint.CheckpointFactory$findCheckpoint.callStatic(Unknown Source)
+	at Verify_unit.run(Verify_unit:29)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1603466349873.run(TempTestSuite1603466349873.groovy:36)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Catalogos/Unidades/Capacidades mineras/Verify_capacity" time="62.206" classname="Test Cases/Catalogos/Unidades/Capacidades mineras/Verify_capacity" status="PASSED">
+         <system-out><![CDATA[2020-10-23 10:20:31 - [TEST_CASE][PASSED] - Test Cases/Catalogos/Unidades/Capacidades mineras/Verify_capacity: Test Cases/Catalogos/Unidades/Capacidades mineras/Verify_capacity
+
+2020-10-23 10:20:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/La Parrilla"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/La Parrilla' successfully
+
+2020-10-23 10:20:31 - [TEST_CASE][PASSED] - Test Cases/Login/La Parrilla: Test Cases/Login/La Parrilla
+
+2020-10-23 10:20:32 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://mb-testing.firstmajestic.com'
+
+2020-10-23 10:20:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2020-10-23 10:20:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-10-23 10:20:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://mb-testing.firstmajestic.com'
+
+2020-10-23 10:20:51 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-10-23 10:20:53 - [MESSAGE][PASSED] - Current window maximized
+
+2020-10-23 10:20:53 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097")): Object: 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' is clicked on
+
+2020-10-23 10:20:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' is clicked on
+
+2020-10-23 10:20:53 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097"), "La Parrilla", false): All options with label 'La Parrilla' are selected in object 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' 
+
+2020-10-23 10:20:54 - [MESSAGE][PASSED] - All options with label 'La Parrilla' are selected in object 'Object Repository/Login/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097' 
+
+2020-10-23 10:20:54 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/button_Iniciar Sesin")): Object: 'Object Repository/Login/La parrilla login/button_Iniciar Sesin' is clicked on
+
+2020-10-23 10:20:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/button_Iniciar Sesin' is clicked on
+
+2020-10-23 10:20:54 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6")): Object: 'Object Repository/Login/La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6' is clicked on
+
+2020-10-23 10:21:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6' is clicked on
+
+2020-10-23 10:21:12 - [TEST_STEP][PASSED] - setText(findTestObject("Login/La parrilla login/input_Sign in_loginfmt"), "iperez@firstmajestic.com"): Text 'iperez@firstmajestic.com' is set on object 'Object Repository/Login/La parrilla login/input_Sign in_loginfmt'
+
+2020-10-23 10:21:18 - [MESSAGE][PASSED] - Text 'iperez@firstmajestic.com' is set on object 'Object Repository/Login/La parrilla login/input_Sign in_loginfmt'
+
+2020-10-23 10:21:18 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in_idSIButton9")): Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:21:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:21:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/La parrilla login/input_Enter password_passwd"), "ykGCkDCd7AS2UCfUpOmvYw=="): Text ****** has been set on object 'Object Repository/Login/La parrilla login/input_Enter password_passwd'
+
+2020-10-23 10:21:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/La parrilla login/input_Enter password_passwd'
+
+2020-10-23 10:21:20 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in_idSIButton9")): Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:21:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:21:22 - [TEST_STEP][PASSED] - click(findTestObject("Login/La parrilla login/input_Sign in_idSIButton9")): Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:21:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/La parrilla login/input_Sign in_idSIButton9' is clicked on
+
+2020-10-23 10:21:27 - [TEST_STEP][NOT_RUN] - delay(7): NOT_RUN: delay(7)
+
+2020-10-23 10:21:27 - [MESSAGE][NOT_RUN] - NOT_RUN: delay(7)
+
+2020-10-23 10:21:27 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Irving", false): NOT_RUN: verifyTextPresent("Irving", false)
+
+2020-10-23 10:21:27 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Irving", false)
+
+2020-10-23 10:21:27 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/La Parrilla' successfully
+
+2020-10-23 10:21:27 - [TEST_STEP][PASSED] - delay(2, CONTINUE_ON_FAILURE): Delayed 2 second(s)
+
+2020-10-23 10:21:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-10-23 10:21:29 - [TEST_STEP][PASSED] - click(findTestObject("Catalogos/button_Catlogos"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Catalogos/button_Catlogos' is clicked on
+
+2020-10-23 10:21:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Catalogos/button_Catlogos' is clicked on
+
+2020-10-23 10:21:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Catalogos/Unidades/button_Unidades Mineras"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Catalogos/Unidades/button_Unidades Mineras' is clicked on
+
+2020-10-23 10:21:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Catalogos/Unidades/button_Unidades Mineras' is clicked on
+
+2020-10-23 10:21:31 - [TEST_STEP][PASSED] - click(findTestObject("Catalogos/Capacidades/button_Capacidades Mineras"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Catalogos/Capacidades/button_Capacidades Mineras' is clicked on
+
+2020-10-23 10:21:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Catalogos/Capacidades/button_Capacidades Mineras' is clicked on
+
+2020-10-23 10:21:32 - [TEST_STEP][PASSED] - verifyCheckpoint(findCheckpoint("Checkpoints/Capacity_mining"), true): Checkpoint data and Source data are matched
+
+2020-10-23 10:21:32 - [MESSAGE][PASSED] - Checkpoint data and Source data are matched
+
+2020-10-23 10:21:32 - [TEST_STEP][PASSED] - closeBrowser(CONTINUE_ON_FAILURE): Browser is closed
+
+2020-10-23 10:21:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-10-23 10:19:15 - [TEST_SUITE][FAILED] - Unidad: Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot find checkpoint with ID 'Checkpoints/Mining_unit'. Root cause: 'java.lang.NullPointerException'
+	at com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint(CheckpointFactory.java:196)
+	at com.kms.katalon.core.checkpoint.CheckpointFactory$findCheckpoint.callStatic(Unknown Source)
+	at Verify_unit.run(Verify_unit:29)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1603466349873.run(TempTestSuite1603466349873.groovy:36)]]></system-out>
+      <system-err><![CDATA[2020-10-23 10:19:15 - [TEST_SUITE][FAILED] - Unidad: Test Cases/Catalogos/Unidades/Unidad minera/Verify_unit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot find checkpoint with ID 'Checkpoints/Mining_unit'. Root cause: 'java.lang.NullPointerException'
+	at com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint(CheckpointFactory.java:196)
+	at com.kms.katalon.core.checkpoint.CheckpointFactory$findCheckpoint.callStatic(Unknown Source)
+	at Verify_unit.run(Verify_unit:29)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1603466349873.run(TempTestSuite1603466349873.groovy:36)]]></system-err>
+   </testsuite>
+</testsuites>

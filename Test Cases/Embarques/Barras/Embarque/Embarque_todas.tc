@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Embarque_todas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d74d72f5-4e5b-46e4-a028-8c7fd3e70d98</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8eac5d81-fccf-48bb-97bd-225e378585fa</id>
+      <masked>false</masked>
+      <name>unidad</name>
+   </variable>
+</TestCaseEntity>

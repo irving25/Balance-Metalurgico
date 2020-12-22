@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b653d33-fd1e-4af7-b90e-43e8b4ccafee</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>446512cb-9c42-415f-b99a-72194d310043</id>
+      <masked>false</masked>
+      <name>razonS</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a48ca46d-6aa1-4591-9155-9cec36be44ea</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba9b0b9f-dfc7-44fc-a313-49766e8e4463</id>
+      <masked>false</masked>
+      <name>nombreC</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e13cd3f0-0e5f-4109-b609-46a721172012</id>
+      <masked>false</masked>
+      <name>sap</name>
+   </variable>
+</TestCaseEntity>

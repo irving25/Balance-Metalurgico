@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Mining_unit</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\Users\iperez\Documents\Datos de prueba\Unidades mineras.xls</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Hoja1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2020-10-21T15:09:04.682</taken-date>
+   <column-names>
+      <column-name>razon social</column-name>
+      <column-name>nombre</column-name>
+      <column-name>nombre corto</column-name>
+      <column-name>sap</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "FIRST MAJESTIC PLATA, S.A. DE C.V.",
+      "checked": true
+    },
+    {
+      "value": "La parrilla",
+      "checked": true
+    },
+    {
+      "value": "LAP",
+      "checked": true
+    },
+    {
+      "value": "200000",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "MINERIA LA ENCANTADA SA DE CV*",
+      "checked": true
+    },
+    {
+      "value": "La Encantada",
+      "checked": true
+    },
+    {
+      "value": "LAE",
+      "checked": true
+    },
+    {
+      "value": "200002",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "NUSANTARA SA DE CV",
+      "checked": true
+    },
+    {
+      "value": "Santa Elena",
+      "checked": true
+    },
+    {
+      "value": "SEL",
+      "checked": true
+    },
+    {
+      "value": "200002",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "LA GUITARRA SA DE CV",
+      "checked": true
+    },
+    {
+      "value": "La Guitarra",
+      "checked": true
+    },
+    {
+      "value": "LG",
+      "checked": true
+    },
+    {
+      "value": "200001",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "FIRST MAJESTIC DEL TORO, S.A. DE C.V.",
+      "checked": true
+    },
+    {
+      "value": "Del Toro",
+      "checked": true
+    },
+    {
+      "value": "DTO",
+      "checked": true
+    },
+    {
+      "value": "200003",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "PRIMERO EMPRESA MINERA, S.A. DE C.V.",
+      "checked": true
+    },
+    {
+      "value": "San Dimas",
+      "checked": true
+    },
+    {
+      "value": "SND",
+      "checked": true
+    },
+    {
+      "value": "200082",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "MINERA EL PILON, S.A. DE C.V.",
+      "checked": true
+    },
+    {
+      "value": "San Martin",
+      "checked": true
+    },
+    {
+      "value": "ELP",
+      "checked": true
+    },
+    {
+      "value": "200001",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

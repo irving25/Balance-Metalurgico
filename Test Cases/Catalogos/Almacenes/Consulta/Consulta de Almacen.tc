@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Consulta de Almacen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7d4e454-3d8a-4cab-95a1-2726f79bfbd3</testCaseGuid>
+   <variable>
+      <defaultValue>'Terminal de Servicios Hazesa'</defaultValue>
+      <description></description>
+      <id>1d7c5fae-ead8-4bf3-8616-f9bb30e80737</id>
+      <masked>false</masked>
+      <name>Almacen</name>
+   </variable>
+</TestCaseEntity>

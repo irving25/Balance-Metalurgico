@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Log-in</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e7e7436-60a0-4006-ad77-de21b9a79d2d</testCaseGuid>
+   <variable>
+      <defaultValue>'San Dimas'</defaultValue>
+      <description></description>
+      <id>59cf2256-1b98-412d-92b9-a934e9a3065b</id>
+      <masked>false</masked>
+      <name>unidad</name>
+   </variable>
+</TestCaseEntity>

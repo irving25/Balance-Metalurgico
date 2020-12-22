@@ -1,0 +1,86 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+San dimas,Chrome 86.0.4240.198,,,2020-12-02 16:16:26,2020-12-02 16:20:46,4m - 19.170s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:16:27,2020-12-02 16:17:07,39.888s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:16:28,2020-12-02 16:16:57,29.359s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:16:57,2020-12-02 16:16:58,1.474s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:16:58,2020-12-02 16:16:59,0.534s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:16:59,2020-12-02 16:17:00,0.748s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:00,2020-12-02 16:17:01,0.773s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:01,2020-12-02 16:17:01,0.886s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:01,2020-12-02 16:17:02,0.582s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:02,2020-12-02 16:17:03,0.601s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:17:03,2020-12-02 16:17:06,3.586s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:17:06,2020-12-02 16:17:07,0.804s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:17:07,2020-12-02 16:17:43,35.610s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:17:07,2020-12-02 16:17:33,25.740s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:33,2020-12-02 16:17:34,1.639s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:34,2020-12-02 16:17:35,0.597s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:35,2020-12-02 16:17:36,0.700s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:36,2020-12-02 16:17:36,0.722s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:36,2020-12-02 16:17:37,0.840s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:37,2020-12-02 16:17:38,0.590s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:17:38,2020-12-02 16:17:38,0.622s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:17:38,2020-12-02 16:17:42,3.385s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:17:42,2020-12-02 16:17:43,0.769s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:17:43,2020-12-02 16:18:18,35.473s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:17:43,2020-12-02 16:18:08,25.444s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:08,2020-12-02 16:18:10,1.582s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:10,2020-12-02 16:18:10,0.588s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:10,2020-12-02 16:18:11,0.780s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:11,2020-12-02 16:18:12,0.774s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:12,2020-12-02 16:18:13,0.820s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:13,2020-12-02 16:18:13,0.626s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:13,2020-12-02 16:18:14,0.675s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:18:14,2020-12-02 16:18:17,3.383s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:18:17,2020-12-02 16:18:18,0.800s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:18:18,2020-12-02 16:18:54,35.588s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:18:18,2020-12-02 16:18:44,25.756s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:44,2020-12-02 16:18:45,1.628s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:45,2020-12-02 16:18:46,0.565s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:46,2020-12-02 16:18:47,0.772s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:47,2020-12-02 16:18:48,0.739s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:48,2020-12-02 16:18:48,0.850s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:48,2020-12-02 16:18:49,0.618s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:18:49,2020-12-02 16:18:50,0.613s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:18:50,2020-12-02 16:18:53,3.248s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:18:53,2020-12-02 16:18:54,0.790s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:18:54,2020-12-02 16:19:29,35.509s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:18:54,2020-12-02 16:19:19,25.581s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:19,2020-12-02 16:19:21,1.536s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:21,2020-12-02 16:19:21,0.647s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:21,2020-12-02 16:19:22,0.693s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:22,2020-12-02 16:19:23,0.722s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:23,2020-12-02 16:19:24,0.848s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:24,2020-12-02 16:19:24,0.635s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:24,2020-12-02 16:19:25,0.678s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:19:25,2020-12-02 16:19:28,3.370s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:19:28,2020-12-02 16:19:29,0.795s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:19:29,2020-12-02 16:20:08,39.082s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:19:29,2020-12-02 16:19:58,28.589s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:19:58,2020-12-02 16:20:00,1.623s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:00,2020-12-02 16:20:00,0.597s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:00,2020-12-02 16:20:01,0.712s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:01,2020-12-02 16:20:02,0.807s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:02,2020-12-02 16:20:02,0.756s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:02,2020-12-02 16:20:03,0.615s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:03,2020-12-02 16:20:04,0.683s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:20:04,2020-12-02 16:20:07,3.685s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:20:07,2020-12-02 16:20:08,1.014s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,Chrome 86.0.4240.198,,,2020-12-02 16:20:08,2020-12-02 16:20:46,37.072s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":unidad], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-02 16:20:08,2020-12-02 16:20:35,27.009s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:35,2020-12-02 16:20:37,1.578s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:37,2020-12-02 16:20:38,0.575s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_PackingList""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:38,2020-12-02 16:20:38,0.775s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:38,2020-12-02 16:20:39,0.792s,PASSED
+"doubleClick(findTestObject(""Embarques/Barras/Packing List/button_previusMonth""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:39,2020-12-02 16:20:40,0.875s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/div_1""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:40,2020-12-02 16:20:41,0.593s,PASSED
+"click(findTestObject(""Embarques/Barras/Packing List/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-02 16:20:41,2020-12-02 16:20:41,0.685s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-02 16:20:41,2020-12-02 16:20:45,3.376s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-02 16:20:45,2020-12-02 16:20:46,0.813s,PASSED

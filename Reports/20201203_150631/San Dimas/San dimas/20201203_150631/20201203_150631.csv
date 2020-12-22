@@ -1,0 +1,56 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+San dimas,Chrome 86.0.4240.198,,,2020-12-03 15:06:37,2020-12-03 15:09:10,2m - 33.167s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Produccion (San Dimas)/Barras embarcadas/Consulta de embarques/Validacion de error lote embarque,Chrome 86.0.4240.198,,,2020-12-03 15:06:38,2020-12-03 15:07:19,41.527s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [:], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-03 15:06:38,2020-12-03 15:07:08,29.802s,PASSED
+"click(findTestObject(""Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:08,2020-12-03 15:07:09,1.507s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:09,2020-12-03 15:07:10,0.558s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Produccin""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:10,2020-12-03 15:07:10,0.582s,PASSED
+"click(findTestObject(""Embarques/Barras/Produccion/Consulta de Embarque/button_Barras_Embarcadas""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:10,2020-12-03 15:07:11,0.608s,PASSED
+"click(findTestObject(""Embarques/Barras/Produccion/Consulta de Embarque/button_Consulta de Embarques""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:11,2020-12-03 15:07:12,0.813s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:12,2020-12-03 15:07:13,0.785s,PASSED
+"doubleClick(findTestObject(""Ventas/Barras/Ensayes oficiales/Captura/button_Previous Month""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:13,2020-12-03 15:07:13,0.792s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/div_1""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:13,2020-12-03 15:07:14,0.636s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:14,2020-12-03 15:07:15,0.685s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-03 15:07:15,2020-12-03 15:07:18,3.536s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-03 15:07:18,2020-12-03 15:07:19,0.817s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Produccion (San Dimas)/Barras embarcadas/Consulta de volumen/Validacion de error volumen embarque,Chrome 86.0.4240.198,,,2020-12-03 15:07:19,2020-12-03 15:07:55,35.681s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [:], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-03 15:07:19,2020-12-03 15:07:45,25.320s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:45,2020-12-03 15:07:46,1.580s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:46,2020-12-03 15:07:47,0.538s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Produccin""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:47,2020-12-03 15:07:47,0.622s,PASSED
+"click(findTestObject(""Embarques/Barras/Produccion/Consulta de Embarque/button_Barras_Embarcadas""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:47,2020-12-03 15:07:48,0.660s,PASSED
+"click(findTestObject(""Embarques/Barras/Produccion/Consulta de volumen/button_Volumen_Embarcados""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:48,2020-12-03 15:07:49,0.710s,PASSED
+"setText(findTestObject(""Embarques/Barras/Produccion/Consulta de volumen/input_barra_ini_emb""), ""1"")",Chrome 86.0.4240.198,,,2020-12-03 15:07:49,2020-12-03 15:07:49,0.608s,PASSED
+"setText(findTestObject(""Embarques/Barras/Produccion/Consulta de volumen/input_barra_fin_emb""), ""50"")",Chrome 86.0.4240.198,,,2020-12-03 15:07:49,2020-12-03 15:07:50,0.403s,PASSED
+"setText(findTestObject(""Embarques/Barras/Produccion/Consulta de volumen/input_lote_emb""), ""LP-12-02"")",Chrome 86.0.4240.198,,,2020-12-03 15:07:50,2020-12-03 15:07:50,0.446s,PASSED
+"click(findTestObject(""Embarques/Barras/Produccion/Consulta de volumen/button_Consultar_Emb""))",Chrome 86.0.4240.198,,,2020-12-03 15:07:50,2020-12-03 15:07:51,0.381s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-03 15:07:51,2020-12-03 15:07:54,3.368s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-03 15:07:54,2020-12-03 15:07:55,0.764s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Produccion (San Dimas)/Consulta de embarques/Validacion de error lote,Chrome 86.0.4240.198,,,2020-12-03 15:07:55,2020-12-03 15:08:33,37.923s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [:], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-03 15:07:55,2020-12-03 15:08:22,26.622s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:22,2020-12-03 15:08:23,1.599s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:23,2020-12-03 15:08:24,0.598s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Produccin""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:24,2020-12-03 15:08:25,0.707s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Consulta de Embarques""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:25,2020-12-03 15:08:25,0.698s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/input_De_Fecha""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:25,2020-12-03 15:08:26,0.730s,PASSED
+"doubleClick(findTestObject(""Ventas/Barras/Ensayes oficiales/Captura/button_Previous Month""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:26,2020-12-03 15:08:27,0.787s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/div_1""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:27,2020-12-03 15:08:27,0.608s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de Embarque/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-03 15:08:27,2020-12-03 15:08:28,0.668s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-03 15:08:28,2020-12-03 15:08:32,3.762s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-03 15:08:32,2020-12-03 15:08:33,0.856s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Produccion (San Dimas)/Consulta de volumen/Validacion de error volumen,Chrome 86.0.4240.198,,,2020-12-03 15:08:33,2020-12-03 15:09:10,37.363s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [:], CONTINUE_ON_FAILURE)",Chrome 86.0.4240.198,,,2020-12-03 15:08:33,2020-12-03 15:09:00,27.201s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Embarques""))",Chrome 86.0.4240.198,,,2020-12-03 15:09:00,2020-12-03 15:09:02,1.561s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Barras""))",Chrome 86.0.4240.198,,,2020-12-03 15:09:02,2020-12-03 15:09:02,0.572s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Produccin""))",Chrome 86.0.4240.198,,,2020-12-03 15:09:02,2020-12-03 15:09:03,0.687s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Consulta de Volumen""))",Chrome 86.0.4240.198,,,2020-12-03 15:09:03,2020-12-03 15:09:04,0.675s,PASSED
+"setText(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/input_No De Barra Inicial_initBar""), ""1"")",Chrome 86.0.4240.198,,,2020-12-03 15:09:04,2020-12-03 15:09:04,0.607s,PASSED
+"setText(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/input_No de Barra Final_endBar""), ""100"")",Chrome 86.0.4240.198,,,2020-12-03 15:09:04,2020-12-03 15:09:05,0.446s,PASSED
+"setText(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/input_Lote_Batch""), ""SD-03-12"")",Chrome 86.0.4240.198,,,2020-12-03 15:09:05,2020-12-03 15:09:05,0.474s,PASSED
+"click(findTestObject(""Object Repository/Embarques/Barras/Produccion/Consulta de volumen/button_Consultar""))",Chrome 86.0.4240.198,,,2020-12-03 15:09:05,2020-12-03 15:09:06,0.404s,PASSED
+"waitForElementPresent(findTestObject(""Error""), 2)",Chrome 86.0.4240.198,,,2020-12-03 15:09:06,2020-12-03 15:09:09,3.613s,PASSED
+closeBrowser(),Chrome 86.0.4240.198,,,2020-12-03 15:09:09,2020-12-03 15:09:10,0.867s,PASSED

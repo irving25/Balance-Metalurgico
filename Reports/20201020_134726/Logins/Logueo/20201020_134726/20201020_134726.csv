@@ -1,0 +1,114 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Logueo,Firefox 82.0,,,2020-10-20 13:47:35,2020-10-20 13:53:43,6m - 7.819s,PASSED
+,,,,,,,
+Test Cases/Login/Del Toro,Firefox 82.0,,,2020-10-20 13:47:35,2020-10-20 13:48:50,1m - 14.414s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:47:36,2020-10-20 13:47:54,17.936s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:47:54,2020-10-20 13:47:54,0.422s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:47:54,2020-10-20 13:47:55,0.977s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""Del Toro"", false)",Firefox 82.0,,,2020-10-20 13:47:55,2020-10-20 13:47:56,0.829s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:47:56,2020-10-20 13:47:56,0.568s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:47:56,2020-10-20 13:48:15,18.461s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:48:15,2020-10-20 13:48:32,17.375s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:48:32,2020-10-20 13:48:33,0.572s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:48:33,2020-10-20 13:48:34,1.468s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:48:34,2020-10-20 13:48:36,1.518s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:48:36,2020-10-20 13:48:40,3.966s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:48:40,2020-10-20 13:48:48,8.072s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:48:48,2020-10-20 13:48:48,0.443s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:48:48,2020-10-20 13:48:50,1.286s,PASSED
+,,,,,,,
+Test Cases/Login/La Encantada,Firefox 82.0,,,2020-10-20 13:48:50,2020-10-20 13:49:55,1m - 5.650s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:48:50,2020-10-20 13:49:04,14.432s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:49:04,2020-10-20 13:49:05,0.382s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:49:05,2020-10-20 13:49:06,0.914s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""La Encantada"", false)",Firefox 82.0,,,2020-10-20 13:49:06,2020-10-20 13:49:06,0.784s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:49:06,2020-10-20 13:49:07,0.535s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:49:07,2020-10-20 13:49:37,29.684s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:49:37,2020-10-20 13:49:39,1.894s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:49:39,2020-10-20 13:49:39,0.566s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:49:39,2020-10-20 13:49:40,1.188s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:49:40,2020-10-20 13:49:42,1.403s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:49:42,2020-10-20 13:49:46,3.797s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:49:46,2020-10-20 13:49:54,8.002s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:49:54,2020-10-20 13:49:54,0.402s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:49:54,2020-10-20 13:49:55,1.319s,PASSED
+,,,,,,,
+Test Cases/Login/La Guitarra,Firefox 82.0,,,2020-10-20 13:49:55,2020-10-20 13:50:55,59.512s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:49:56,2020-10-20 13:50:12,16.264s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:50:12,2020-10-20 13:50:12,0.276s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:50:12,2020-10-20 13:50:13,1.158s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""La Guitarra"", false)",Firefox 82.0,,,2020-10-20 13:50:13,2020-10-20 13:50:14,0.800s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:50:14,2020-10-20 13:50:15,0.579s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:50:15,2020-10-20 13:50:36,21.528s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:50:36,2020-10-20 13:50:38,1.744s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:50:38,2020-10-20 13:50:39,0.593s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:50:39,2020-10-20 13:50:40,1.413s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:50:40,2020-10-20 13:50:41,1.160s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:50:41,2020-10-20 13:50:45,3.796s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:50:45,2020-10-20 13:50:53,8.000s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:50:53,2020-10-20 13:50:53,0.398s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:50:53,2020-10-20 13:50:55,1.463s,PASSED
+,,,,,,,
+Test Cases/Login/La Parrilla,Firefox 82.0,,,2020-10-20 13:50:55,2020-10-20 13:51:29,34.214s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:50:55,2020-10-20 13:51:05,10.328s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:51:05,2020-10-20 13:51:06,0.345s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:51:06,2020-10-20 13:51:06,0.633s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""La Parrilla"", false)",Firefox 82.0,,,2020-10-20 13:51:06,2020-10-20 13:51:07,0.532s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:51:07,2020-10-20 13:51:07,0.545s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:51:07,2020-10-20 13:51:10,2.995s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:51:10,2020-10-20 13:51:12,1.667s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:51:12,2020-10-20 13:51:13,0.555s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:51:13,2020-10-20 13:51:14,1.447s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:51:14,2020-10-20 13:51:15,1.256s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:51:15,2020-10-20 13:51:19,3.887s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:51:19,2020-10-20 13:51:27,8.002s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:51:27,2020-10-20 13:51:28,0.395s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:51:28,2020-10-20 13:51:29,1.311s,PASSED
+,,,,,,,
+Test Cases/Login/San Dimas,Firefox 82.0,,,2020-10-20 13:51:29,2020-10-20 13:52:22,53.378s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:51:29,2020-10-20 13:51:39,9.397s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:51:39,2020-10-20 13:51:39,0.331s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:51:39,2020-10-20 13:51:40,0.574s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""San Dimas"", false)",Firefox 82.0,,,2020-10-20 13:51:40,2020-10-20 13:51:40,0.732s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:51:40,2020-10-20 13:51:41,0.524s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:51:41,2020-10-20 13:52:04,22.787s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:52:04,2020-10-20 13:52:05,1.696s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:52:05,2020-10-20 13:52:06,0.536s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:52:06,2020-10-20 13:52:07,1.482s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:52:07,2020-10-20 13:52:09,1.542s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:52:09,2020-10-20 13:52:13,3.875s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:52:13,2020-10-20 13:52:21,8.005s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:52:21,2020-10-20 13:52:21,0.404s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:52:21,2020-10-20 13:52:22,1.239s,PASSED
+,,,,,,,
+Test Cases/Login/San Martin,Firefox 82.0,,,2020-10-20 13:52:22,2020-10-20 13:52:57,34.442s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:52:23,2020-10-20 13:52:33,9.827s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:52:33,2020-10-20 13:52:33,0.309s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:52:33,2020-10-20 13:52:34,0.964s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""San Martin"", false)",Firefox 82.0,,,2020-10-20 13:52:34,2020-10-20 13:52:35,0.734s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:52:35,2020-10-20 13:52:35,0.535s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:52:35,2020-10-20 13:52:38,2.798s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:52:38,2020-10-20 13:52:40,1.735s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:52:40,2020-10-20 13:52:40,0.695s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:52:40,2020-10-20 13:52:42,1.400s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:52:42,2020-10-20 13:52:43,1.513s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:52:43,2020-10-20 13:52:47,3.912s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:52:47,2020-10-20 13:52:55,8.002s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:52:55,2020-10-20 13:52:56,0.380s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:52:56,2020-10-20 13:52:57,1.315s,PASSED
+,,,,,,,
+Test Cases/Login/Santa Elena,Firefox 82.0,,,2020-10-20 13:52:57,2020-10-20 13:53:43,45.705s,PASSED
+openBrowser(url),Firefox 82.0,,,2020-10-20 13:52:57,2020-10-20 13:53:07,9.347s,PASSED
+maximizeWindow(),Firefox 82.0,,,2020-10-20 13:53:07,2020-10-20 13:53:07,0.290s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""))",Firefox 82.0,,,2020-10-20 13:53:07,2020-10-20 13:53:07,0.616s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/La parrilla login/select_Seleccionar UnidadLa ParrillaLa Enca_3f6097""), ""Santa Elena"", false)",Firefox 82.0,,,2020-10-20 13:53:07,2020-10-20 13:53:08,0.724s,PASSED
+"click(findTestObject(""Object Repository/La parrilla login/button_Iniciar Sesin""))",Firefox 82.0,,,2020-10-20 13:53:08,2020-10-20 13:53:09,0.565s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in with your corporate ID_btn bt_b79ff6""))",Firefox 82.0,,,2020-10-20 13:53:09,2020-10-20 13:53:24,15.061s,PASSED
+"setText(findTestObject(""La parrilla login/input_Sign in_loginfmt""), ""iperez@firstmajestic.com"")",Firefox 82.0,,,2020-10-20 13:53:24,2020-10-20 13:53:25,1.517s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:53:25,2020-10-20 13:53:26,0.532s,PASSED
+"setEncryptedText(findTestObject(""La parrilla login/input_Enter password_passwd""), ""ykGCkDCd7AS2UCfUpOmvYw=="")",Firefox 82.0,,,2020-10-20 13:53:26,2020-10-20 13:53:27,1.419s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:53:27,2020-10-20 13:53:29,1.448s,PASSED
+"click(findTestObject(""La parrilla login/input_Sign in_idSIButton9""))",Firefox 82.0,,,2020-10-20 13:53:29,2020-10-20 13:53:33,4.102s,PASSED
+delay(8),Firefox 82.0,,,2020-10-20 13:53:33,2020-10-20 13:53:41,8.003s,PASSED
+"verifyTextPresent(""Irving"", false)",Firefox 82.0,,,2020-10-20 13:53:41,2020-10-20 13:53:41,0.460s,PASSED
+closeBrowser(),Firefox 82.0,,,2020-10-20 13:53:41,2020-10-20 13:53:43,1.299s,PASSED

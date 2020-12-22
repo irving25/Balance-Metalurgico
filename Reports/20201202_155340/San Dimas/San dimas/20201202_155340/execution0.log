@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024776</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/San Dimas/San dimas</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">San dimas</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/San Dimas/San dimas</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024808</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = iperez - EC2AMAZ-DJL71OR.firstmajestic.local</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">iperez - EC2AMAZ-DJL71OR.firstmajestic.local</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024810</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows Server 2016 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows Server 2016 64bit</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024810</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 10.41.50.193</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.41.50.193</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024812</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 7.0.4.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">7.0.4.1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024816</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : beforeExportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024845</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>This Katalon Studio version has been deprecated. Please upgrade Katalon Studio to the latest version.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:44</date>
+  <millis>1606946024859</millis>
+  <sequence>9</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : beforeExportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:45</date>
+  <millis>1606946025599</millis>
+  <sequence>10</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:45</date>
+  <millis>1606946025636</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = La Parrilla </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026092</millis>
+  <sequence>13</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026474</millis>
+  <sequence>14</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026635</millis>
+  <sequence>16</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2e9fda69, La Parrilla , ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2e9fda69, La Parrilla , ...]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2e9fda69, La Parrilla , ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2e9fda69, La Parrilla , ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026769</millis>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026848</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026848</millis>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = La Encantada</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026864</millis>
+  <sequence>22</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026864</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:46</date>
+  <millis>1606946026895</millis>
+  <sequence>25</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@56c698e3, La Encantada, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@56c698e3, La Encantada, ...]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@56c698e3, La Encantada, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@56c698e3, La Encantada, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027004</millis>
+  <sequence>27</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027020</millis>
+  <sequence>28</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027020</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = Santa Elena</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027036</millis>
+  <sequence>31</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027036</millis>
+  <sequence>32</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027051</millis>
+  <sequence>34</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2eced48b, Santa Elena, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2eced48b, Santa Elena, ...]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2eced48b, Santa Elena, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@2eced48b, Santa Elena, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027176</millis>
+  <sequence>36</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027179</millis>
+  <sequence>37</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027195</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = La Guitarra</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027211</millis>
+  <sequence>40</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027211</millis>
+  <sequence>41</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027211</millis>
+  <sequence>43</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@793138bd, La Guitarra, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@793138bd, La Guitarra, ...]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@793138bd, La Guitarra, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@793138bd, La Guitarra, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027273</millis>
+  <sequence>45</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027289</millis>
+  <sequence>46</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027304</millis>
+  <sequence>48</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = Del Toro</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027304</millis>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027304</millis>
+  <sequence>50</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027320</millis>
+  <sequence>52</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@62f68dff, Del Toro, CONTINUE_ON_FAILURE]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@62f68dff, Del Toro, CONTINUE_ON_FAILURE]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@62f68dff, Del Toro, CONTINUE_ON_FAILURE]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@62f68dff, Del Toro, CONTINUE_ON_FAILURE]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027320</millis>
+  <sequence>54</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027336</millis>
+  <sequence>55</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027351</millis>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = San Dimas </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027351</millis>
+  <sequence>58</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027351</millis>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027351</millis>
+  <sequence>61</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@3381b4fc, San Dimas , ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@3381b4fc, San Dimas , ...]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@3381b4fc, San Dimas , ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@3381b4fc, San Dimas , ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027367</millis>
+  <sequence>63</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027383</millis>
+  <sequence>64</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Embarques/Barras/Packing list/Validacion de error packing</property>
+  <property name="source">D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Test Cases\\Embarques\\Barras\\Packing list\\Validacion de error packing.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027383</millis>
+  <sequence>66</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>unidad = San Martin</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027383</millis>
+  <sequence>67</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027383</millis>
+  <sequence>68</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : callTestCase(findTestCase(\&amp;quot;Login/Log-in\&amp;quot;), unidad, CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027383</millis>
+  <sequence>70</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Embarques/Barras/Packing list/Validacion de error packing FAILED.\nReason:\ngroovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@6b44435b, San Martin, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@6b44435b, San Martin, ...]
+Possible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</message>
+    <frame>
+      <class>Validacion de error packing</class>
+      <method>run</method>
+      <line>19</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>169</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>142</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>91</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1606946020294</class>
+      <method>run</method>
+      <line>36</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@6b44435b, San Martin, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)\r\n\tat Validacion de error packing.run(Validacion de error packing:19)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1606946020294.run(TempTestSuite1606946020294.groovy:36)\r\n</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.callTestCase() is applicable for argument types: (com.kms.katalon.core.testcase.TestCase, java.lang.String, com.kms.katalon.core.model.FailureHandling) values: [com.kms.katalon.core.testcase.TestCase@6b44435b, San Martin, ...]\nPossible solutions: callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map, com.kms.katalon.core.model.FailureHandling), callTestCase(com.kms.katalon.core.testcase.TestCase, java.util.Map)</property>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027398</millis>
+  <sequence>72</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Embarques/Barras/Packing list/Validacion de error packing</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027398</millis>
+  <sequence>73</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027398</millis>
+  <sequence>75</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>This Katalon Studio version has been deprecated. Please upgrade Katalon Studio to the latest version.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log><record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027554</millis>
+  <sequence>180</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Reports\\20201202_155340\\San Dimas\\San dimas\\20201202_155340...</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027570</millis>
+  <sequence>181</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027570</millis>
+  <sequence>182</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Reports\\20201202_155340\\San Dimas\\San dimas\\20201202_155340...</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027601</millis>
+  <sequence>183</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027601</millis>
+  <sequence>184</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating JUnit report folder at: D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Reports\\20201202_155340\\San Dimas\\San dimas\\20201202_155340...</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027758</millis>
+  <sequence>185</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>JUnit report generated</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-12-02T15:53:47</date>
+  <millis>1606946027758</millis>
+  <sequence>186</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating PDF report folder at: D:\\Users\\iperez\\Katalon Studio\\Balance metalurgico\\Reports\\20201202_155340\\San Dimas\\San dimas\\20201202_155340...</message>
+  <nestedLevel>0</nestedLevel>
+</record>

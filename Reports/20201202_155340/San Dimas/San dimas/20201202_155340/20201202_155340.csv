@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+San dimas,,,,2020-12-02 15:53:44,2020-12-02 15:53:47,2.622s,ERROR
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:45,2020-12-02 15:53:46,1.170s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:46,2020-12-02 15:53:46,0.382s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:46,2020-12-02 15:53:47,0.156s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:46,2020-12-02 15:53:46,0.000s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.156s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.000s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.094s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.000s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.031s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.000s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.031s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.000s,PASSED
+,,,,,,,
+Test Cases/Embarques/Barras/Packing list/Validacion de error packing,,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.015s,ERROR
+"callTestCase(findTestCase(""Login/Log-in""), unidad, CONTINUE_ON_FAILURE)",,,,2020-12-02 15:53:47,2020-12-02 15:53:47,0.000s,PASSED

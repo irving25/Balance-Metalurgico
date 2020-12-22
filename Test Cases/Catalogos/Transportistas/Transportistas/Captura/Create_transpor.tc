@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_transpor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>689cdd98-aa04-4465-a4a6-00471d7a5451</testCaseGuid>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>83217144-9cf7-4a39-be1c-778f779e6859</id>
+      <masked>false</masked>
+      <name>razon_s</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>73ba6f43-ea30-49df-9b8e-5ce8a2be633b</id>
+      <masked>false</masked>
+      <name>contrato</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,272 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Transportista,Chrome 87.0.4280.88,,,2020-12-09 17:46:06,2020-12-09 17:55:24,9m - 18.394s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:46:06,2020-12-09 17:46:46,39.494s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:07,2020-12-09 17:46:35,27.651s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:35,2020-12-09 17:46:35,0.538s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:35,2020-12-09 17:46:36,0.552s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:36,2020-12-09 17:46:36,0.725s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:36,2020-12-09 17:46:37,0.698s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:37,2020-12-09 17:46:38,0.872s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:38,2020-12-09 17:46:38,0.516s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:38,2020-12-09 17:46:39,0.655s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:39,2020-12-09 17:46:40,0.674s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:40,2020-12-09 17:46:40,0.586s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:40,2020-12-09 17:46:41,0.648s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:41,2020-12-09 17:46:42,0.615s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:42,2020-12-09 17:46:42,0.777s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:46:42,2020-12-09 17:46:44,2.007s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:44,2020-12-09 17:46:45,0.384s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:46:45,2020-12-09 17:46:46,0.797s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:46:46,2020-12-09 17:47:23,37.382s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:46:46,2020-12-09 17:47:12,25.828s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:12,2020-12-09 17:47:12,0.636s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:12,2020-12-09 17:47:13,0.591s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:13,2020-12-09 17:47:13,0.676s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:13,2020-12-09 17:47:14,0.724s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:14,2020-12-09 17:47:15,1.025s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:15,2020-12-09 17:47:16,0.458s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:16,2020-12-09 17:47:16,0.735s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:16,2020-12-09 17:47:17,0.616s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:17,2020-12-09 17:47:18,0.639s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:18,2020-12-09 17:47:18,0.686s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:18,2020-12-09 17:47:19,0.653s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:19,2020-12-09 17:47:20,0.706s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:47:20,2020-12-09 17:47:22,2.003s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:22,2020-12-09 17:47:22,0.410s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:47:22,2020-12-09 17:47:23,0.986s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:47:23,2020-12-09 17:48:13,49.998s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:47:23,2020-12-09 17:48:02,39.232s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:02,2020-12-09 17:48:03,0.443s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:03,2020-12-09 17:48:03,0.595s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:03,2020-12-09 17:48:04,0.641s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:04,2020-12-09 17:48:05,0.713s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:05,2020-12-09 17:48:06,0.875s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:06,2020-12-09 17:48:06,0.452s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:06,2020-12-09 17:48:07,0.700s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:07,2020-12-09 17:48:07,0.633s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:07,2020-12-09 17:48:08,0.676s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:08,2020-12-09 17:48:09,0.649s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:09,2020-12-09 17:48:09,0.593s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:09,2020-12-09 17:48:10,0.695s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:48:10,2020-12-09 17:48:12,2.003s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:12,2020-12-09 17:48:12,0.351s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:48:12,2020-12-09 17:48:13,0.723s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:48:13,2020-12-09 17:48:49,35.839s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:13,2020-12-09 17:48:38,25.045s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:38,2020-12-09 17:48:39,0.446s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:39,2020-12-09 17:48:39,0.619s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:39,2020-12-09 17:48:40,0.607s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:40,2020-12-09 17:48:41,0.710s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:41,2020-12-09 17:48:41,0.895s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:41,2020-12-09 17:48:42,0.435s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:42,2020-12-09 17:48:43,0.734s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:43,2020-12-09 17:48:43,0.636s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:43,2020-12-09 17:48:44,0.572s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:44,2020-12-09 17:48:44,0.608s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:44,2020-12-09 17:48:45,0.651s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:45,2020-12-09 17:48:46,0.696s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:48:46,2020-12-09 17:48:48,2.003s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:48,2020-12-09 17:48:48,0.354s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:48:48,2020-12-09 17:48:49,0.787s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:48:49,2020-12-09 17:49:25,36.096s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:48:49,2020-12-09 17:49:14,25.421s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:14,2020-12-09 17:49:15,0.461s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:15,2020-12-09 17:49:15,0.579s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:15,2020-12-09 17:49:16,0.666s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:16,2020-12-09 17:49:17,0.697s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:17,2020-12-09 17:49:18,0.828s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:18,2020-12-09 17:49:18,0.466s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:18,2020-12-09 17:49:19,0.652s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:19,2020-12-09 17:49:19,0.630s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:19,2020-12-09 17:49:20,0.598s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:20,2020-12-09 17:49:21,0.621s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:21,2020-12-09 17:49:21,0.660s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:21,2020-12-09 17:49:22,0.689s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:49:22,2020-12-09 17:49:24,2.003s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:24,2020-12-09 17:49:24,0.335s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:49:24,2020-12-09 17:49:25,0.772s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:49:25,2020-12-09 17:50:00,34.734s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:25,2020-12-09 17:49:49,24.025s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:49,2020-12-09 17:49:50,0.444s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:50,2020-12-09 17:49:50,0.599s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:50,2020-12-09 17:49:51,0.586s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:51,2020-12-09 17:49:51,0.700s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:51,2020-12-09 17:49:52,0.940s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:52,2020-12-09 17:49:53,0.419s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:53,2020-12-09 17:49:54,0.731s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:54,2020-12-09 17:49:54,0.590s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:54,2020-12-09 17:49:55,0.579s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:55,2020-12-09 17:49:55,0.656s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:55,2020-12-09 17:49:56,0.652s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:56,2020-12-09 17:49:57,0.712s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:49:57,2020-12-09 17:49:59,2.002s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:49:59,2020-12-09 17:49:59,0.344s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:49:59,2020-12-09 17:50:00,0.738s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:50:00,2020-12-09 17:50:36,35.713s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:00,2020-12-09 17:50:25,25.123s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:25,2020-12-09 17:50:25,0.490s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:25,2020-12-09 17:50:26,0.501s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:26,2020-12-09 17:50:27,0.656s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:27,2020-12-09 17:50:27,0.707s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:27,2020-12-09 17:50:28,0.858s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:28,2020-12-09 17:50:29,0.442s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:29,2020-12-09 17:50:29,0.799s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:29,2020-12-09 17:50:30,0.577s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:30,2020-12-09 17:50:31,0.588s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:31,2020-12-09 17:50:31,0.665s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:31,2020-12-09 17:50:32,0.601s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:32,2020-12-09 17:50:32,0.628s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:50:32,2020-12-09 17:50:34,2.001s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:34,2020-12-09 17:50:35,0.343s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:50:35,2020-12-09 17:50:36,0.726s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:50:36,2020-12-09 17:51:11,35.770s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:50:36,2020-12-09 17:51:01,24.921s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:01,2020-12-09 17:51:01,0.427s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:01,2020-12-09 17:51:01,0.544s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:01,2020-12-09 17:51:02,0.665s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:02,2020-12-09 17:51:03,0.712s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:03,2020-12-09 17:51:04,0.981s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:04,2020-12-09 17:51:04,0.481s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:04,2020-12-09 17:51:05,0.710s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:05,2020-12-09 17:51:06,0.604s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:06,2020-12-09 17:51:06,0.688s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:06,2020-12-09 17:51:07,0.653s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:07,2020-12-09 17:51:08,0.596s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:08,2020-12-09 17:51:08,0.697s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:51:08,2020-12-09 17:51:10,2.002s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:10,2020-12-09 17:51:11,0.343s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:51:11,2020-12-09 17:51:11,0.723s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:51:11,2020-12-09 17:51:47,36.080s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:11,2020-12-09 17:51:36,24.972s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:36,2020-12-09 17:51:37,0.643s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:37,2020-12-09 17:51:38,0.579s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:38,2020-12-09 17:51:38,0.646s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:38,2020-12-09 17:51:39,0.695s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:39,2020-12-09 17:51:40,1.019s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:40,2020-12-09 17:51:40,0.488s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:40,2020-12-09 17:51:41,0.714s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:41,2020-12-09 17:51:42,0.607s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:42,2020-12-09 17:51:42,0.694s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:42,2020-12-09 17:51:43,0.619s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:43,2020-12-09 17:51:44,0.653s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:44,2020-12-09 17:51:44,0.676s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:51:44,2020-12-09 17:51:46,2.001s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:46,2020-12-09 17:51:47,0.346s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:51:47,2020-12-09 17:51:47,0.718s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:51:47,2020-12-09 17:52:24,36.454s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:51:47,2020-12-09 17:52:13,25.314s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:13,2020-12-09 17:52:13,0.442s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:13,2020-12-09 17:52:14,0.606s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:14,2020-12-09 17:52:14,0.650s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:14,2020-12-09 17:52:15,0.707s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:15,2020-12-09 17:52:16,0.995s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:16,2020-12-09 17:52:17,0.476s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:17,2020-12-09 17:52:17,0.721s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:17,2020-12-09 17:52:18,0.596s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:18,2020-12-09 17:52:19,0.724s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:19,2020-12-09 17:52:19,0.690s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:19,2020-12-09 17:52:20,0.640s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:20,2020-12-09 17:52:21,0.714s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:52:21,2020-12-09 17:52:23,2.002s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:23,2020-12-09 17:52:23,0.346s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:52:23,2020-12-09 17:52:24,0.827s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:52:24,2020-12-09 17:53:00,35.616s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:24,2020-12-09 17:52:49,24.808s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:49,2020-12-09 17:52:49,0.504s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:49,2020-12-09 17:52:50,0.476s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:50,2020-12-09 17:52:50,0.664s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:50,2020-12-09 17:52:51,0.718s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:51,2020-12-09 17:52:52,0.906s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:52,2020-12-09 17:52:52,0.425s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:52,2020-12-09 17:52:53,0.724s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:53,2020-12-09 17:52:54,0.588s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:54,2020-12-09 17:52:54,0.633s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:54,2020-12-09 17:52:55,0.687s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:55,2020-12-09 17:52:56,0.665s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:56,2020-12-09 17:52:56,0.693s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:52:56,2020-12-09 17:52:58,2.006s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:52:58,2020-12-09 17:52:59,0.389s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:52:59,2020-12-09 17:53:00,0.712s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:53:00,2020-12-09 17:53:36,35.983s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:00,2020-12-09 17:53:25,25.316s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:25,2020-12-09 17:53:25,0.460s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:25,2020-12-09 17:53:26,0.554s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:26,2020-12-09 17:53:27,0.660s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:27,2020-12-09 17:53:27,0.706s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:27,2020-12-09 17:53:28,0.855s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:28,2020-12-09 17:53:29,0.433s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:29,2020-12-09 17:53:29,0.742s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:29,2020-12-09 17:53:30,0.579s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:30,2020-12-09 17:53:30,0.586s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:30,2020-12-09 17:53:31,0.667s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:31,2020-12-09 17:53:32,0.647s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:32,2020-12-09 17:53:33,0.704s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:53:33,2020-12-09 17:53:35,2.002s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:35,2020-12-09 17:53:35,0.339s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:53:35,2020-12-09 17:53:36,0.730s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:53:36,2020-12-09 17:54:11,35.738s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:53:36,2020-12-09 17:54:00,24.568s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:00,2020-12-09 17:54:01,0.578s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:01,2020-12-09 17:54:01,0.616s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:01,2020-12-09 17:54:02,0.663s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:02,2020-12-09 17:54:03,0.691s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:03,2020-12-09 17:54:04,0.910s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:04,2020-12-09 17:54:04,0.440s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:04,2020-12-09 17:54:05,0.688s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:05,2020-12-09 17:54:05,0.587s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:05,2020-12-09 17:54:06,0.691s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:06,2020-12-09 17:54:07,0.707s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:07,2020-12-09 17:54:07,0.651s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:07,2020-12-09 17:54:08,0.670s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:54:08,2020-12-09 17:54:10,2.003s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:10,2020-12-09 17:54:11,0.526s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:54:11,2020-12-09 17:54:11,0.749s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:54:11,2020-12-09 17:54:47,35.499s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:11,2020-12-09 17:54:36,24.580s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:36,2020-12-09 17:54:36,0.445s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:36,2020-12-09 17:54:37,0.584s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:37,2020-12-09 17:54:38,0.656s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:38,2020-12-09 17:54:38,0.692s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:38,2020-12-09 17:54:39,1.037s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:39,2020-12-09 17:54:40,0.421s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:40,2020-12-09 17:54:40,0.690s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:40,2020-12-09 17:54:41,0.608s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:41,2020-12-09 17:54:42,0.675s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:42,2020-12-09 17:54:42,0.694s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:42,2020-12-09 17:54:43,0.650s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:43,2020-12-09 17:54:44,0.703s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:54:44,2020-12-09 17:54:46,2.001s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:46,2020-12-09 17:54:46,0.340s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:54:46,2020-12-09 17:54:47,0.719s,PASSED
+,,,,,,,
+Test Cases/Catalogos/Transportistas/Transportistas/Captura/Create_transpor,Chrome 87.0.4280.88,,,2020-12-09 17:54:47,2020-12-09 17:55:24,37.125s,PASSED
+"callTestCase(findTestCase(""Login/Log-in""), [""unidad"":""San Dimas""], CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:54:47,2020-12-09 17:55:13,26.056s,PASSED
+"click(findTestObject(""Catalogos/button_Catlogos""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:13,2020-12-09 17:55:13,0.450s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:13,2020-12-09 17:55:14,0.620s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Transpor_2""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:14,2020-12-09 17:55:15,0.667s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Btn_capturaT""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:15,2020-12-09 17:55:15,0.752s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/razon_social""), razon_s, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:15,2020-12-09 17:55:16,1.091s,PASSED
+"setText(findTestObject(""Catalogos/Transportistas/Transportistas/contrato""), contrato, CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:16,2020-12-09 17:55:17,0.436s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/fecha""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:17,2020-12-09 17:55:18,0.704s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/year""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:18,2020-12-09 17:55:18,0.585s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/Year2025""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:18,2020-12-09 17:55:19,0.680s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/month""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:19,2020-12-09 17:55:20,0.656s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/december""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:20,2020-12-09 17:55:20,0.645s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Date/31December""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:20,2020-12-09 17:55:21,0.675s,PASSED
+delay(2),Chrome 87.0.4280.88,,,2020-12-09 17:55:21,2020-12-09 17:55:23,2.002s,PASSED
+"click(findTestObject(""Catalogos/Transportistas/Transportistas/Aceptar""), CONTINUE_ON_FAILURE)",Chrome 87.0.4280.88,,,2020-12-09 17:55:23,2020-12-09 17:55:23,0.345s,PASSED
+closeBrowser(CONTINUE_ON_FAILURE),Chrome 87.0.4280.88,,,2020-12-09 17:55:23,2020-12-09 17:55:24,0.759s,PASSED
