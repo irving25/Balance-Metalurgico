@@ -15,3 +15,13 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.callTestCase(findTestCase('Login/Log-in'), [('unidad') : 'San Dimas'], FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Catalogos/Transportistas/Vehiculo/button_Catlogos'))
+
+WebUI.click(findTestObject('Catalogos/Transportistas/Vehiculo/button_Transportistas'))
+
+WebUI.click(findTestObject('Catalogos/Transportistas/Gondolas/button_Gndolas'))
+
+WebUI.click(findTestObject('Catalogos/Transportistas/Gondolas/Consulta/button_Consulta'))
+

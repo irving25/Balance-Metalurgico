@@ -19,7 +19,7 @@ WebUI.callTestCase(findTestCase('Login/Log-in'), [('unidad') : 'San Dimas'], Fai
 
 WebUI.click(findTestObject('Catalogos/Transportistas/Vehiculo/button_Catlogos'))
 
-WebUI.click(findTestObject('Catalogos/Clientes/Consulta/button_Clientes_Consulta'))
+WebUI.click(findTestObject('Catalogos/Refineria/Consulta/button_Refinerias'))
 
-WebUI.click(findTestObject('Catalogos/Clientes/Consulta/button_Clientes_Consulta_Consulta'))
+WebUI.click(findTestObject('Catalogos/Refineria/Consulta/button_Consulta'))
 
