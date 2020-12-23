@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Btn_consultaC</name>
+   <name>search_transpor</name>
    <tag></tag>
-   <elementGuidId>b6396588-f6ec-4cf3-9b88-aed77062a6d2</elementGuidId>
+   <elementGuidId>b268cb07-5cbb-4eb6-85ab-33b906cabad0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div/div/div[2]/ul/li[5]/ul[2]/li/ul[1]/li/ul[1]/li/button</value>
+         <value>/html/body/div[1]/div/main/div/div/div/div[2]/div[2]/div/div/div/select</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edicion de transportista</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32ac0cfe-2fb2-4205-9ede-a7d7c47a0ba7</testCaseGuid>
+   <variable>
+      <defaultValue>'Esto es una prueba de razon'</defaultValue>
+      <description></description>
+      <id>6388520f-735e-4df5-bd93-e0452f3fceff</id>
+      <masked>false</masked>
+      <name>razon</name>
+   </variable>
+   <variable>
+      <defaultValue>'Esto es una prueba de contrato'</defaultValue>
+      <description></description>
+      <id>4af06a61-4f06-4166-8354-e40ed60a5e3f</id>
+      <masked>false</masked>
+      <name>contrato</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sepsa'</defaultValue>
+      <description></description>
+      <id>ebe92107-ceb8-472c-8df4-4d0e89411295</id>
+      <masked>false</masked>
+      <name>transpo</name>
+   </variable>
+</TestCaseEntity>
