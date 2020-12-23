@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editar Vehiculo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b81ea190-205e-4490-bbfe-8386e63af4dc</testCaseGuid>
+   <variable>
+      <defaultValue>'0000 - Test Number'</defaultValue>
+      <description></description>
+      <id>240e538b-1a61-4c65-9a32-6e04aca9bb04</id>
+      <masked>false</masked>
+      <name>test_unit_number</name>
+   </variable>
+   <variable>
+      <defaultValue>'Vehicle Typer Test'</defaultValue>
+      <description></description>
+      <id>f6d57212-2c48-4230-b729-1582cebc7622</id>
+      <masked>false</masked>
+      <name>test_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'0000 - License Plate Test'</defaultValue>
+      <description></description>
+      <id>4f57c5b6-631a-4cb4-bed5-c7aa4105f5f6</id>
+      <masked>false</masked>
+      <name>test_license_plate_number</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insurance Company Test'</defaultValue>
+      <description></description>
+      <id>3e7dce99-9806-417d-9949-bfbbee856d31</id>
+      <masked>false</masked>
+      <name>test_insurance</name>
+   </variable>
+   <variable>
+      <defaultValue>'0000 - Policy Number Test'</defaultValue>
+      <description></description>
+      <id>fefb08e2-8aff-4735-9891-1ec8d1446675</id>
+      <masked>false</masked>
+      <name>test_policy</name>
+   </variable>
+</TestCaseEntity>
