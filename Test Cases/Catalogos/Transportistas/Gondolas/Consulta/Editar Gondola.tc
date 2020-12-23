@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editar Gondola</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f30f7d80-d1ea-45fa-a0e7-54462b1f5faf</testCaseGuid>
+   <variable>
+      <defaultValue>'7357 Unit Number Testing'</defaultValue>
+      <description></description>
+      <id>3f5dfaac-13ab-4811-abeb-91f96ae01e24</id>
+      <masked>false</masked>
+      <name>num_Unidad</name>
+   </variable>
+   <variable>
+      <defaultValue>'Gondola Type Testing'</defaultValue>
+      <description></description>
+      <id>9c0a5d70-77e1-41d3-bf39-9f297d642581</id>
+      <masked>false</masked>
+      <name>tipo_Gondola</name>
+   </variable>
+   <variable>
+      <defaultValue>'License Plate Testing'</defaultValue>
+      <description></description>
+      <id>70516c00-d0ab-44e8-97fb-2bbae87fefe7</id>
+      <masked>false</masked>
+      <name>placas</name>
+   </variable>
+   <variable>
+      <defaultValue>'Canvas Color Testing'</defaultValue>
+      <description></description>
+      <id>0ef20257-0793-4ae5-9147-ab2db02f26b6</id>
+      <masked>false</masked>
+      <name>color_Lona</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cavas Condition Testing'</defaultValue>
+      <description></description>
+      <id>0a8bb5c0-e6c9-4526-ba90-c3327ca84004</id>
+      <masked>false</masked>
+      <name>condicion_Lona</name>
+   </variable>
+   <variable>
+      <defaultValue>'Steel Cable Condition Tesing'</defaultValue>
+      <description></description>
+      <id>97109361-85de-424a-a1a7-bc4aa6181d6f</id>
+      <masked>false</masked>
+      <name>condicion_cable</name>
+   </variable>
+   <variable>
+      <defaultValue>'7357 Rings Number Testing'</defaultValue>
+      <description></description>
+      <id>25ccb7ad-afa8-4ec4-aa20-410a3aa327e6</id>
+      <masked>false</masked>
+      <name>num_Argollas</name>
+   </variable>
+</TestCaseEntity>
