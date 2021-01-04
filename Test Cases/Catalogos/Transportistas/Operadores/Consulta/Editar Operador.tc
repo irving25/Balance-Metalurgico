@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editar Operador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fded6b2-4502-4f6e-a7b1-ec4cf6e202ae</testCaseGuid>
+   <variable>
+      <defaultValue>'Tuemsa'</defaultValue>
+      <description></description>
+      <id>01c34edd-61d5-4a85-95f0-be7dc645597e</id>
+      <masked>false</masked>
+      <name>transportista</name>
+   </variable>
+   <variable>
+      <defaultValue>'name test input'</defaultValue>
+      <description></description>
+      <id>5ea7d03f-2fdf-4523-9b98-861ddaf3ce82</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789 - License - Test - Input'</defaultValue>
+      <description></description>
+      <id>a7ca1811-91e0-4308-b18a-bd6c115c80a3</id>
+      <masked>false</masked>
+      <name>license</name>
+   </variable>
+   <variable>
+      <defaultValue>'7357 IMSS number test input'</defaultValue>
+      <description></description>
+      <id>9ad0c041-8b02-4aab-82f5-e123dc3d0a1d</id>
+      <masked>false</masked>
+      <name>imss</name>
+   </variable>
+</TestCaseEntity>
