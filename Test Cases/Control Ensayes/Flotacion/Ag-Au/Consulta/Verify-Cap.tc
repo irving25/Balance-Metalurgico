@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-Cap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bb74ed7-5038-42f5-9ad5-3066fb768f00</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>42e2f3f2-cdad-4647-9e62-f2cd471278de</id>
+      <masked>false</masked>
+      <name>humedas</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4f9cf13a-78ea-4f16-b0ef-418f71349368</id>
+      <masked>false</masked>
+      <name>humedad</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8d234344-f2bb-4c81-8eab-aadfeba9a6f8</id>
+      <masked>false</masked>
+      <name>tonseca</name>
+   </variable>
+</TestCaseEntity>

@@ -24,18 +24,18 @@ WebUI.click(findTestObject('Object Repository/Catalogos/Contratos/button_Contrat
 
 WebUI.click(findTestObject('Object Repository/Catalogos/Contratos/button_Captura'), FailureHandling.CONTINUE_ON_FAILURE)
 
-for (def i = 4; i <= findTestData('Data Files/Catalogos/Contratos').getRowNumbers(); i++) {
-    WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Nm Contrato_numContract'), findTestData('Data Files/Catalogos/Contratos').getValue(
+for (def i = 3; i <= findTestData('Data Files/Catalogos/Transportistas/Contratos').getRowNumbers(); i++) {
+    WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Nm Contrato_numContract'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             1, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.selectOptionByLabel(findTestObject('Object Repository/Catalogos/Contratos/select_Seleccionar Tipo de ContratoBarrasCo_55f85c'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(2, i), false, FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(2, i), false, FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.selectOptionByLabel(findTestObject('Object Repository/Catalogos/Contratos/select_Seleccionar RefineraMet Mex Peoles S_14df66'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(3, i), false, FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(3, i), false, FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.selectOptionByLabel(findTestObject('Object Repository/Catalogos/Contratos/select_Seleccionar UnidadLa ParrillaLa Enca_c3bc0c'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(4, i), false, FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(4, i), false, FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.click(findTestObject('Object Repository/Catalogos/Contratos/input_Fecha Inicial_Fecha'), FailureHandling.CONTINUE_ON_FAILURE)
 
@@ -60,61 +60,61 @@ for (def i = 4; i <= findTestData('Data Files/Catalogos/Contratos').getRowNumber
     WebUI.click(findTestObject('Object Repository/Catalogos/Contratos/div_31'), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Grs Pagable Plata_agPayableGrams'), findTestData(
-            'Data Files/Catalogos/Contratos').getValue(5, i), FailureHandling.CONTINUE_ON_FAILURE)
+            'Data Files/Catalogos/Transportistas/Contratos').getValue(5, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Porcentaje Pagable Plata_agPayablePercentage'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(6, i), FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(6, i), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.setText(findTestObject('Catalogos/Contratos/Porcentaje_ant_pla'), findTestData('Data Files/Catalogos/Contratos').getValue(
+    WebUI.setText(findTestObject('Catalogos/Contratos/Porcentaje_ant_pla'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             7, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Grs Pagables Oro_auPayableGrams'), findTestData(
-            'Data Files/Catalogos/Contratos').getValue(8, i), FailureHandling.CONTINUE_ON_FAILURE)
+            'Data Files/Catalogos/Transportistas/Contratos').getValue(8, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Porcentaje Pagable Oro_auPayablePercentage'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(9, i), FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(9, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Porcentaje Anticipo Oro_auAdvPayableP_441ce7'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(10, i), FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(10, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Catalogos/Contratos/input_Cargo por Refinacin Onzas de Plata_pa_4a3ab3'), findTestData(
-            'Data Files/Catalogos/Contratos').getValue(11, i), FailureHandling.CONTINUE_ON_FAILURE)
+            'Data Files/Catalogos/Transportistas/Contratos').getValue(11, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.selectOptionByValue(findTestObject('Object Repository/Catalogos/Contratos/select_Seleccionar TipoDore WeightDore OzDo_e78bf3'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(12, i), false, FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(12, i), false, FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Cargo por Refinacin Onzas de Oro_paya_8d40cb'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(13, i), FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(13, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Mnimo Asignable Plata_minAgAssignableAmount'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(14, i), FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(14, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Mnimo Asignable Oro_minAuAssignableAmount'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(15, i), FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(15, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.setText(findTestObject('Object Repository/Catalogos/Contratos/input_Dias de Cierre_closingDays'), findTestData(
-            'Data Files/Catalogos/Contratos').getValue(16, i), FailureHandling.CONTINUE_ON_FAILURE)
+            'Data Files/Catalogos/Transportistas/Contratos').getValue(16, i), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.setText(findTestObject('Catalogos/Contratos/Correo1'), findTestData('Data Files/Catalogos/Contratos').getValue(
+    WebUI.setText(findTestObject('Catalogos/Contratos/Correo1'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             17, i), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.setText(findTestObject('Catalogos/Contratos/Correo2'), findTestData('Data Files/Catalogos/Contratos').getValue(
+    WebUI.setText(findTestObject('Catalogos/Contratos/Correo2'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             18, i), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.setText(findTestObject('Catalogos/Contratos/Correo3'), findTestData('Data Files/Catalogos/Contratos').getValue(
+    WebUI.setText(findTestObject('Catalogos/Contratos/Correo3'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             19, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.selectOptionByValue(findTestObject('Object Repository/Catalogos/Contratos/select_Seleccionar OnzaDore OzsDore Ag OzsD_090c4f'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(20, i), false, FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(20, i), false, FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.setText(findTestObject('Catalogos/Contratos/Porncentaje_ajuste_ag'), findTestData('Data Files/Catalogos/Contratos').getValue(
+    WebUI.setText(findTestObject('Catalogos/Contratos/Porncentaje_ajuste_ag'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             21, i), FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.setText(findTestObject('Catalogos/Contratos/Porncentaje_ajuste_au'), findTestData('Data Files/Catalogos/Contratos').getValue(
+    WebUI.setText(findTestObject('Catalogos/Contratos/Porncentaje_ajuste_au'), findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(
             22, i), FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.selectOptionByLabel(findTestObject('Object Repository/Catalogos/Contratos/select_Seleccionar ClienteRepublic Metals C_939819'), 
-        findTestData('Data Files/Catalogos/Contratos').getValue(23, i), false, FailureHandling.CONTINUE_ON_FAILURE)
+        findTestData('Data Files/Catalogos/Transportistas/Contratos').getValue(23, i), false, FailureHandling.CONTINUE_ON_FAILURE)
 
     WebUI.scrollToElement(findTestObject('Object Repository/Catalogos/Contratos/button_Guardar'), 0)
 

@@ -16,7 +16,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('null'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Login/Log-in'), [('unidad') : 'San Dimas'], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2)
 
@@ -34,58 +34,56 @@ WebUI.click(findTestObject('Object Repository/Control Ensayes/Flotacion/Ag-Au/Ca
 
 WebUI.click(findTestObject('Control Ensayes/Flotacion/Ag-Au/Captura/div_2'))
 
-for (def rowNum = 1; rowNum <= findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getRowNumbers(); rowNum++) {
-    WebUI.selectOptionByLabel(findTestObject('Control Ensayes/Flotacion/Ag-Au/Captura/turno'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+for (def rowNum = 1; rowNum <= findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getRowNumbers(); rowNum++) {
+    WebUI.selectOptionByLabel(findTestObject('Control Ensayes/Flotacion/Ag-Au/Captura/turno'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             1, rowNum), false)
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/Humedad'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/Humedad'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             2, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/Humedas'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/Humedas'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             3, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/al-ag'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/al-ag'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             4, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/al-pb'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/al-pb'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             5, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/al-zn'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/al-zn'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             6, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/con-ag'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/con-ag'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             7, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/con-pb'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/con-pb'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             8, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/con-zn'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/con-zn'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             9, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/conz-ag'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/conz-ag'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             10, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/conz-pb'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/conz-pb'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             11, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/conz-zn'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/conz-zn'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             12, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/col-ag'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/col-ag'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             13, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/col-pb'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/col-pb'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             14, rowNum))
 
-    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/col-zn'), findTestData('Data Files/Control de ensayes/La parrilla/Flotacion/Ag-Au/AgAu').getValue(
+    WebUI.setText(findTestObject('Control Ensayes/Flotacion/Pb-Zn/col-zn'), findTestData('Data Files/Control de ensayes/La encantada/Flotacion/PbZn/Pb-Zn').getValue(
             15, rowNum))
+	
+	not_run: WebUI.click(findTestObject('Control Ensayes/Flotacion/Pb-Zn/btn-save'))
+	
 }
 
-WebUI.click(findTestObject('Object Repository/Control Ensayes/Flotacion/Ag-Au/Captura/div_IncidenciasIncidenciaSeleccionar Tipo d_de7fed'))
-
-WebUI.click(findTestObject('Control Ensayes/Flotacion/Pb-Zn/btn-save'))
-
-WebUI.delay(5)
 
 WebUI.closeBrowser()
 
